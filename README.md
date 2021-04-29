@@ -59,3 +59,10 @@ Open another terminal and clone the repository:
 Run the next command to start webgme browser:
 
     node app.js
+    
+# Open MiniProject
+
+1. Copy the port number and paste it into your web broswer
+2. Create a new project and choose existing seed 
+3. Select RealMiniProject and hit Create
+4. Now you can see my PetriNet Implementation
