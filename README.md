@@ -39,3 +39,15 @@ Run this command in the terminal:
 Run the following command:
 
     npm install -g webgme-cli
+    
+# Start MongoDB
+
+In a new terminal run the command:
+
+    brew services start mongodb-community@4.4
+    
+ # Start the MiniProject
+
+Open another terminal and cd into the project:
+
+    cd MiniProject
