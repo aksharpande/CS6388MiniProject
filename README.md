@@ -8,3 +8,9 @@ Download Dependencies for this Mini Project (Installation instructions for macOS
  
     curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash
   
+2. Install MongoDB with Homebrew
+
+
+Run the command to install Homebrew first:
+
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
