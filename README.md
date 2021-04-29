@@ -34,7 +34,7 @@ Run this command in the terminal:
      brew install python
      
 
-After downloading the dependencies, download webgme-cli
+# After downloading the dependencies, download webgme-cli
 
 Run the following command:
 
