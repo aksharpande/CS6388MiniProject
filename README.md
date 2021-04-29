@@ -66,3 +66,8 @@ Run the next command to start webgme browser:
 2. Create a new project and choose existing seed 
 3. Select RealMiniProject and hit Create
 4. Now you can see my PetriNet Implementation
+
+# Stop MongoDB
+In the same terminal run the command:
+
+    brew services stop mongodb-community@4.4
