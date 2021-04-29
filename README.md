@@ -55,3 +55,7 @@ Open another terminal and clone the repository:
  Now cd into the repository:
   
     cd CS6388MiniProject
+
+Run the next command to start webgme browser:
+
+    node app.js
