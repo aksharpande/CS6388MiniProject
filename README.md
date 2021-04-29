@@ -34,7 +34,7 @@ Run this command in the terminal:
      brew install python
      
 
-# After downloading the dependencies, download webgme-cli
+# Download webgme-cli
 
 Run the following command:
 
@@ -48,6 +48,10 @@ In a new terminal run the command:
     
  # Start the MiniProject
 
-Open another terminal and cd into the project:
+Open another terminal and clone the repository:
 
-    cd MiniProject
+    git clone https://github.com/mollym55/CS6388MiniProject.git
+ 
+ Now cd into the repository:
+  
+    cd CS6388MiniProject
