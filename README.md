@@ -11,6 +11,8 @@ Download Dependencies for this Mini Project (Installation instructions for macOS
 2. Install MongoDB with Homebrew
 
 
-Run the command to install Homebrew first:
+Run the two commands to install Homebrew first:
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    
+    brew install wget
