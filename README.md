@@ -1,2 +1,3 @@
 # CS6388MiniProject
-for this
+
+Download Dependencies for this Mini Project (Instructions for macOS)
