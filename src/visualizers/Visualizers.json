@@ -1,0 +1,14 @@
+[
+  {
+    "id": "PlotView",
+    "title": "PlotView",
+    "panel": "panels/PlotView/PlotViewPanel",
+    "DEBUG_ONLY": false
+  },
+  {
+    "id": "PlotView1",
+    "title": "PlotView",
+    "panel": "panels/PlotView/PlotViewPanel",
+    "DEBUG_ONLY": false
+  }
+]
