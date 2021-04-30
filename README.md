@@ -1,9 +1,72 @@
-# miniProject
-## Installation
-First, install the miniProject following:
-- [NodeJS](https://nodejs.org/en/) (LTS recommended)
-- [MongoDB](https://www.mongodb.com/)
+# CS6388MiniProject
+# Download Dependencies for this Mini Project (Installation instructions for macOS
 
-Second, start mongodb locally by running the `mongod` executable in your mongodb installation (you may need to create a `data` directory or set `--dbpath`).
+1. Install Node.js
 
-Then, run `webgme start` from the project root to start . Finally, navigate to `http://localhost:8888` to start using miniProject!
+  Run the command in a new open Terminal:
+
+     curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.5/install.sh | bash
+
+ 2. Install MongoDB with Homebrew
+
+
+ Run the two following commands seperately to install Homebrew first:
+
+     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+     brew install wget
+
+ Now run the next command:
+
+     brew install mongodb-community@4.4
+
+ 3. Install git with Homebrew
+
+ Run the following command:
+
+      brew install git
+
+ 4. Install Python3 with Homebrew
+
+ Run this command in the terminal:
+
+      brew install python
+
+
+ # Download webgme-cli
+
+ Run the following command:
+
+     npm install -g webgme-cli
+
+ # Start MongoDB
+
+ In a new terminal run the command:
+
+     brew services start mongodb-community@4.4
+
+  # Start the MiniProject
+
+ Open another terminal and clone the repository:
+
+     git clone https://github.com/mollym55/CS6388MiniProject.git
+
+  Now cd into the repository:
+
+     cd CS6388MiniProject
+
+ Run the next command to start webgme browser:
+
+     node app.js
+
+ # Open MiniProject
+
+ 1. Copy the port number and paste it into your web broswer
+ 2. Create a new project and choose existing seed 
+ 3. Select RealMiniProject and hit Create
+ 4. Now you can see my PetriNet Implementation
+
+ # Stop MongoDB
+ In the same terminal run the command:
+
+     brew services stop mongodb-community@4.4
