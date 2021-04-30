@@ -1,0 +1,218 @@
+2021-04-28T19:53:24.685Z - error: [gme:server:standalone:api] Error: ENOENT: no such file or directory, scandir '/Users/mollymiller/miniProject/config/../src/seeds/MiniProject'
+2021-04-28T19:53:32.285Z - error: [gme:server:standalone:api] Error: ENOENT: no such file or directory, scandir '/Users/mollymiller/miniProject/config/../src/seeds/MiniProject'
+2021-04-28T20:03:38.060Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:03:38.061Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:03:38.065Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:38.067Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:46.153Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:03:46.153Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:03:46.155Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:46.156Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:34:10.124Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:34:10.124Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:34:10.129Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:34:10.131Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:25:36.276Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T22:25:36.276Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T22:25:36.279Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:25:36.281Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:26:06.612Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+ImportError: 
+2021-04-28T22:26:06.612Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] No module named webgme_bindings
+
+2021-04-28T22:26:06.615Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:26:06.615Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:27:42.674Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T22:27:42.674Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T22:27:42.677Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:27:42.677Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:30:28.865Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+ImportError: 
+2021-04-28T22:30:28.866Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] No module named webgme_bindings
+
+2021-04-28T22:30:28.868Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:30:28.871Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:34:49.288Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+
+2021-04-28T22:34:49.288Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator]     from webgme_bindings import WebGME
+ImportError: No module named webgme_bindings
+
+2021-04-28T22:34:49.292Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:34:49.295Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-29T21:56:43.179Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    
+2021-04-29T21:56:43.180Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] from webgme_bindings import WebGME
+ImportError: No module named webgme_bindings
+
+2021-04-29T21:56:43.185Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-29T21:56:43.188Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)

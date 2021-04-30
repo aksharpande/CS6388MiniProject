@@ -1,0 +1,650 @@
+2021-04-25T18:44:53.373Z - info: [gme] Node version v8.12.0
+2021-04-25T18:44:53.375Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-25T18:44:53.375Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-25T18:44:53.402Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-25T18:44:53.504Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-25T18:44:53.510Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:44:53.547Z - warn: [gme:server:auth:gmeauth] User "guest" was not found. We will attempt to create it automatically.
+2021-04-25T18:44:53.752Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:44:54.552Z - info: [gme:server:standalone] Server is listening ...
+2021-04-25T18:45:50.460Z - info: [gme] Node version v8.12.0
+2021-04-25T18:45:50.462Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-25T18:45:50.462Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-25T18:45:50.487Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-25T18:45:50.587Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-25T18:45:50.597Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:45:50.631Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:45:51.099Z - info: [gme:server:standalone] Server is listening ...
+2021-04-25T18:54:50.650Z - info: [gme] Node version v8.12.0
+2021-04-25T18:54:50.652Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-25T18:54:50.652Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-25T18:54:50.690Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-25T18:54:50.824Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-25T18:54:50.831Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:54:50.857Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-25T18:54:51.337Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T01:52:31.381Z - info: [gme] Node version v8.12.0
+2021-04-26T01:52:31.383Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T01:52:31.383Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T01:52:31.406Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-26T01:52:31.529Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T01:52:31.536Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T01:52:31.564Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T01:52:31.965Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T01:54:02.250Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:02.255Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:02.350Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:02.353Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:02.442Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:02.454Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.105Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.109Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.181Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.184Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.310Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:54:18.324Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:56:53.192Z - info: [gme] Node version v8.12.0
+2021-04-26T01:56:53.193Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T01:56:53.193Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T01:56:53.223Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-26T01:56:53.337Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T01:56:53.345Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T01:56:53.380Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T01:56:53.756Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T01:57:01.970Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:01.975Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:02.059Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:02.062Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:02.163Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:02.177Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:13.327Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T01:57:13.331Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:11:38.992Z - info: [gme] Node version v8.12.0
+2021-04-26T18:11:38.994Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T18:11:38.994Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T18:11:39.028Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.185:8888
+2021-04-26T18:11:39.159Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T18:11:39.166Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:11:39.192Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:11:39.659Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T18:12:11.797Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:11.803Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:11.904Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:11.907Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:12.068Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:12.081Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:13.502Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:13.506Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:17.985Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:17.988Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.882Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.886Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.910Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.915Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.919Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.922Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:19.925Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:20.060Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:20.063Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:48.152Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:48.156Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:12:55.776Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:13:41.096Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:13:41.100Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:27:59.957Z - info: [gme] Node version v8.12.0
+2021-04-26T18:27:59.958Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T18:27:59.958Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T18:27:59.984Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.185:8888
+2021-04-26T18:28:00.118Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T18:28:00.125Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:28:00.150Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:28:00.544Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T18:28:17.248Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:17.253Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:17.381Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:17.384Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:17.482Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:17.496Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:22.960Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:22.963Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:26.205Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:28:26.208Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:22.518Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:22.523Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:25.562Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:25.565Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:29.805Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:30:29.809Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:35:59.351Z - info: [gme] Node version v8.12.0
+2021-04-26T18:35:59.352Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T18:35:59.352Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T18:35:59.396Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.185:8888
+2021-04-26T18:35:59.614Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T18:35:59.625Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:35:59.656Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:36:00.159Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T18:36:34.430Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:34.436Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:34.541Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:34.544Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:34.642Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:34.655Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:37.822Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:37.826Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:47.593Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:36:47.597Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:37:18.210Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:37:18.216Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:37:18.549Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:37:18.552Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:02.349Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:02.365Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:02.410Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:02.413Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:03.431Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:03.434Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:05.804Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:05.816Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:05.864Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:39:05.866Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:24.121Z - info: [gme] Node version v8.12.0
+2021-04-26T18:51:24.122Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-26T18:51:24.122Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-26T18:51:24.157Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.185:8888
+2021-04-26T18:51:24.282Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-26T18:51:24.289Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:51:24.317Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-26T18:51:24.763Z - info: [gme:server:standalone] Server is listening ...
+2021-04-26T18:51:34.136Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:34.141Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:34.235Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:34.239Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:34.336Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:34.349Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:37.691Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-26T18:51:37.695Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:17.614Z - info: [gme] Node version v8.12.0
+2021-04-27T01:17:17.614Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-27T01:17:17.615Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-27T01:17:17.646Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-27T01:17:17.791Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-27T01:17:17.797Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T01:17:17.832Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T01:17:18.229Z - info: [gme:server:standalone] Server is listening ...
+2021-04-27T01:17:30.154Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:30.160Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:30.270Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:30.273Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:30.377Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:17:30.391Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:18:17.225Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:18:17.228Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:35.555Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:35.569Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:35.592Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:35.595Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:37.107Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:20:37.110Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:36:47.416Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T01:36:47.420Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:52:41.174Z - info: [gme] Node version v8.12.0
+2021-04-27T20:52:41.176Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-27T20:52:41.176Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-27T20:52:41.209Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-27T20:52:41.361Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-27T20:52:41.368Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T20:52:41.410Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T20:52:41.910Z - info: [gme:server:standalone] Server is listening ...
+2021-04-27T20:53:04.251Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:04.257Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:04.345Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:04.348Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:04.502Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:04.515Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.370Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.375Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.483Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.486Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.565Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:09.578Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:10.980Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:10.985Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:11.090Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:11.093Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:11.169Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:11.182Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.310Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.315Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.423Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.426Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.507Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:21.521Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.540Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.545Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.657Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.659Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.747Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:32.761Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.560Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.564Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.678Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.682Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.759Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:53:44.772Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:01.461Z - info: [gme] Node version v8.12.0
+2021-04-27T20:59:01.463Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-27T20:59:01.463Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-27T20:59:01.494Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-27T20:59:01.644Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-27T20:59:01.653Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T20:59:01.686Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T20:59:02.135Z - info: [gme:server:standalone] Server is listening ...
+2021-04-27T20:59:06.190Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:06.195Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:06.339Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:06.342Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:06.450Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:06.463Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:08.925Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:08.929Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:10.523Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:10.528Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:12.165Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:12.169Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:13.120Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:13.125Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:24.366Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:24.375Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:24.610Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:24.614Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:29.470Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:29.475Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:29.636Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:29.639Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.155Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.160Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.253Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.257Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.346Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:49.359Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:52.247Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:52.252Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:53.341Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T20:59:53.344Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:22:51.995Z - info: [gme] Node version v8.12.0
+2021-04-27T22:22:51.995Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-27T22:22:51.996Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-27T22:22:52.018Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-27T22:22:52.162Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-27T22:22:52.172Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T22:22:52.199Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-27T22:22:52.634Z - info: [gme:server:standalone] Server is listening ...
+2021-04-27T22:23:19.307Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:19.313Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:19.394Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:19.399Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:19.504Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:19.517Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:20.830Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:20.834Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:22.037Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:22.040Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:23.335Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:23:23.338Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.345Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.350Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.419Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.422Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.521Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:15.534Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:17.522Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-27T22:43:17.526Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:55:42.076Z - info: [gme] Node version v8.12.0
+2021-04-28T18:55:42.078Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T18:55:42.078Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T18:55:42.114Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T18:55:42.271Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T18:55:42.278Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T18:55:42.302Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T18:55:42.767Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T18:57:55.541Z - info: [gme] Node version v8.12.0
+2021-04-28T18:57:55.542Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T18:57:55.542Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T18:57:55.573Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T18:57:55.713Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T18:57:55.722Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T18:57:55.750Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T18:57:56.165Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T18:58:29.362Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:29.367Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:29.486Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:29.489Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:29.581Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:29.594Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:36.290Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:36.293Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:45.712Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:49.439Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:53.706Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:54.821Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:56.753Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T18:58:59.368Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.081Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.086Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.217Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.220Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.325Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:30:57.338Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.301Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.306Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.400Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.403Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.510Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:49.524Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:50.473Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:50.476Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:51.196Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:51.199Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:52.009Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:52.012Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:52.917Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:41:52.920Z - warn: [gme:server:standalone] Requested DecoratorSVG not found /assets/DecoratorSVG/svgs/synchron.svg
+2021-04-28T19:53:16.604Z - info: [gme] Node version v8.12.0
+2021-04-28T19:53:16.605Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T19:53:16.605Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T19:53:16.644Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T19:53:16.801Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T19:53:16.809Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:53:16.836Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:53:17.250Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T19:53:24.685Z - error: [gme:server:standalone:api] Error: ENOENT: no such file or directory, scandir '/Users/mollymiller/miniProject/config/../src/seeds/MiniProject'
+2021-04-28T19:53:32.285Z - error: [gme:server:standalone:api] Error: ENOENT: no such file or directory, scandir '/Users/mollymiller/miniProject/config/../src/seeds/MiniProject'
+2021-04-28T19:54:11.031Z - info: [gme] Node version v8.12.0
+2021-04-28T19:54:11.033Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T19:54:11.033Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T19:54:11.073Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T19:54:11.206Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T19:54:11.213Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:54:11.239Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:54:11.627Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T19:59:16.904Z - info: [gme] Node version v8.12.0
+2021-04-28T19:59:16.906Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T19:59:16.906Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T19:59:16.944Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T19:59:17.073Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T19:59:17.081Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:59:17.108Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T19:59:17.554Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T20:03:13.393Z - info: [gme] Node version v8.12.0
+2021-04-28T20:03:13.394Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T20:03:13.394Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T20:03:13.428Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T20:03:13.599Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T20:03:13.613Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T20:03:13.648Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T20:03:14.093Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T20:03:37.932Z - info: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T20:03:38.060Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:03:38.060Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:03:38.065Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:38.067Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:46.087Z - info: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T20:03:46.153Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:03:46.153Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:03:46.155Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:03:46.156Z - error: [gme:server:worker:simpleworker:pid_21849:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#88d8756e80b68f9f8ae7c4a889db96d83b33acad" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:33:48.881Z - info: [gme] Node version v8.12.0
+2021-04-28T20:33:48.882Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T20:33:48.883Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T20:33:48.912Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T20:33:49.044Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T20:33:49.051Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T20:33:49.077Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T20:33:49.517Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T20:34:10.006Z - info: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T20:34:10.124Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T20:34:10.124Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T20:34:10.129Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T20:34:10.131Z - error: [gme:server:worker:simpleworker:pid_21981:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:25:12.879Z - info: [gme] Node version v8.12.0
+2021-04-28T22:25:12.880Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T22:25:12.880Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T22:25:12.924Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T22:25:13.060Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T22:25:13.067Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:25:13.093Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:25:13.480Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T22:25:36.157Z - info: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T22:25:36.275Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T22:25:36.276Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T22:25:36.279Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:25:36.281Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:26:06.575Z - info: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T22:26:06.612Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+ImportError: 
+2021-04-28T22:26:06.612Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] No module named webgme_bindings
+
+2021-04-28T22:26:06.614Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:26:06.615Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:27:42.609Z - info: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T22:27:42.674Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+
+2021-04-28T22:27:42.674Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] ImportError: No module named webgme_bindings
+
+2021-04-28T22:27:42.677Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:27:42.677Z - error: [gme:server:worker:simpleworker:pid_22192:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:30:20.612Z - info: [gme] Node version v8.12.0
+2021-04-28T22:30:20.612Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T22:30:20.613Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T22:30:20.639Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T22:30:20.754Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T22:30:20.760Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:30:20.785Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:30:21.255Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T22:30:28.815Z - info: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T22:30:28.865Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    from webgme_bindings import WebGME
+ImportError: 
+2021-04-28T22:30:28.866Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] No module named webgme_bindings
+
+2021-04-28T22:30:28.868Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:30:28.871Z - error: [gme:server:worker:simpleworker:pid_22228:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "" "" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:34:29.591Z - info: [gme] Node version v8.12.0
+2021-04-28T22:34:29.592Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-28T22:34:29.592Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-28T22:34:29.616Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-28T22:34:29.757Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-28T22:34:29.765Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:34:29.795Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-28T22:34:30.221Z - info: [gme:server:standalone] Server is listening ...
+2021-04-28T22:34:49.229Z - info: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-28T22:34:49.288Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+
+2021-04-28T22:34:49.288Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator]     from webgme_bindings import WebGME
+ImportError: No module named webgme_bindings
+
+2021-04-28T22:34:49.292Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-28T22:34:49.294Z - error: [gme:server:worker:simpleworker:pid_22253:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#c282b2d697933ad3b4b4d3e9aceb4a667a86b4b8" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-29T21:54:55.278Z - info: [gme] Node version v8.12.0
+2021-04-29T21:54:55.280Z - info: [gme] Logfile [ info ] : /Users/mollymiller/miniProject/server.log
+2021-04-29T21:54:55.280Z - info: [gme] Logfile [ error ] : /Users/mollymiller/miniProject/server-error.log
+2021-04-29T21:54:55.322Z - info: [gme:server:standalone] Valid addresses of gme web server:  http://127.0.0.1:8888  http://192.168.1.201:8888
+2021-04-29T21:54:55.508Z - info: [gme:server:standalone:middleware:BlobServer:BlobBackend] local-storage: /Users/mollymiller/miniProject/blob-local-storage
+2021-04-29T21:54:55.515Z - info: [gme:server:auth:gmeauth] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-29T21:54:55.558Z - info: [gme:server:standalone:mongo] connecting to: mongodb://127.0.0.1:27017/miniproject
+2021-04-29T21:54:56.011Z - info: [gme:server:standalone] Server is listening ...
+2021-04-29T21:56:43.051Z - info: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] zmq-server listening at port 5555
+2021-04-29T21:56:43.179Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Traceback (most recent call last):
+  File "/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py", line 12, in <module>
+    
+2021-04-29T21:56:43.180Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] from webgme_bindings import WebGME
+ImportError: No module named webgme_bindings
+
+2021-04-29T21:56:43.185Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions:PluginManagerBase:plugin:MiniProjectCodeGenerator] Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)
+2021-04-29T21:56:43.188Z - error: [gme:server:worker:simpleworker:pid_24661:WorkerFunctions] plugin [MiniProjectCodeGenerator] failed with error message=python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1., stack=Error: python /Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/run_plugin.py 5555 "#5c7448333bbbf75d3e121e74de868107e4c00724" "master" "/j" "/j" "" exited with code 1.
+    at ChildProcess.childProc.on (/Users/mollymiller/miniProject/src/plugins/MiniProjectCodeGenerator/MiniProjectCodeGenerator.js:99:37)
+    at emitTwo (events.js:126:13)
+    at ChildProcess.emit (events.js:214:7)
+    at maybeClose (internal/child_process.js:915:16)
+    at Socket.stream.socket.on (internal/child_process.js:336:11)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at Pipe._handle.close [as _onclose] (net.js:561:12)

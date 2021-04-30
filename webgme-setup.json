@@ -1,0 +1,40 @@
+{
+  "components": {
+    "routers": {},
+    "seeds": {
+      "MiniProject": {
+        "src": "src/seeds/MiniProject"
+      },
+      "RealMiniProject": {
+        "src": "src/seeds/RealMiniProject"
+      }
+    },
+    "plugins": {
+      "MiniProjectCodeGenerator": {
+        "src": "src/plugins/MiniProjectCodeGenerator",
+        "test": "test/plugins/MiniProjectCodeGenerator"
+      }
+    },
+    "visualizers": {
+      "PlotView": {
+        "src": "panels/PlotView/PlotViewPanel",
+        "title": "PlotView",
+        "panel": "src/visualizers/panels/PlotView",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/PlotView"
+      }
+    }
+  },
+  "dependencies": {
+    "routers": {
+      "BindingsDocs": {
+        "project": "webgme-bindings",
+        "path": "node_modules/webgme-bindings/src/routers/BindingsDocs",
+        "mount": "bindings-docs"
+      }
+    },
+    "seeds": {},
+    "plugins": {},
+    "visualizers": {}
+  }
+}
