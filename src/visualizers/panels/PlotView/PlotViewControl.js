@@ -25,27 +25,20 @@ define([
         this._widget = options.widget;
 
         this._currentNodeId = null;
-        this._currentNodeParentId = undefined;
-
-        this._initWidgetEventHandlers();
+        
+       
 
         this._logger.debug('ctor finished');
     }
 
-    PlotViewControl.prototype._initWidgetEventHandlers = function () {
-        this._widget.onNodeClick = function (id) {
-            // Change the current active object
-            WebGMEGlobal.State.registerActiveObject(id);
-        };
-    };
-
+    
     /* * * * * * * * Visualizer content update callbacks * * * * * * * */
     // One major concept here is with managing the territory. The territory
     // defines the parts of the project that the visualizer is interested in
     // (this allows the browser to then only load those relevant parts).
     PlotViewControl.prototype.selectedObjectChanged = function (nodeId) {
-        var desc = this._getObjectDescriptor(nodeId),
-            self = this;
+        const node = this._client.getNode(nodeId);
+        const self = this;
 
         self._logger.debug('activeObject nodeId \'' + nodeId + '\'');
 
@@ -55,22 +48,19 @@ define([
         }
 
         self._currentNodeId = nodeId;
-        self._currentNodeParentId = undefined;
+        
 
         if (typeof self._currentNodeId === 'string') {
             // Put new node's info into territory rules
             self._selfPatterns = {};
             self._selfPatterns[nodeId] = {children: 0};  // Territory "rule"
 
-            self._widget.setTitle(desc.name.toUpperCase());
-
-            if (typeof desc.parentId === 'string') {
-                self.$btnModelHierarchyUp.show();
+            if (node) {
+                self._widget.setTitle(node.getAttribute('name'));
             } else {
-                self.$btnModelHierarchyUp.hide();
+                self._widget.setTitle('no Petri Net element...');
             }
 
-            self._currentNodeParentId = desc.parentId;
 
             self._territoryId = self._client.addUI(self, function (events) {
                 self._eventCallback(events);
@@ -79,26 +69,37 @@ define([
             // Update the territory
             self._client.updateTerritory(self._territoryId, self._selfPatterns);
 
-            self._selfPatterns[nodeId] = {children: 1};
-            self._client.updateTerritory(self._territoryId, self._selfPatterns);
+            
         }
     };
 
     // This next function retrieves the relevant node information for the widget
     PlotViewControl.prototype._getObjectDescriptor = function (nodeId) {
-        var node = this._client.getNode(nodeId),
-            objDescriptor;
+        const node = this._client.getNode(nodeId);
+        const ObjDescriptor = [];
         if (node) {
-            objDescriptor = {
-                id: node.getId(),
-                name: node.getAttribute(nodePropertyNames.Attributes.name),
-                childrenIds: node.getChildrenIds(),
-                parentId: node.getParentId(),
-                isConnection: GMEConcepts.isConnection(nodeId)
-            };
-        }
+            const raw_data = JSON.parse(node.getAttribute('simRes') || "{}");
+            for (let parameter in raw_data) {
+                raw_data[parameter] = raw_data[parameter].map(parseFloat);
+            }
 
-        return objDescriptor;
+            if (raw_data.time) {
+                for (let parameter in raw_data) {
+                    if (parameter !== 'time') {
+                        let paramDescriptor = {};
+                        paramDescriptor.name = parameter;
+                        paramDescriptor.x = raw_data.time;
+                        paramDescriptor.y = raw_data[parameter];
+                        paramDescriptor.mode = 'lines';
+                        ObjDescriptor.push(paramDescriptor);
+                    }
+                }
+                return ObjDescriptor;
+            } else {
+                return null;
+            }
+        }
+        return null;
     };
 
     /* * * * * * * * Node Event Handling * * * * * * * */
@@ -113,13 +114,12 @@ define([
             switch (event.etype) {
 
             case CONSTANTS.TERRITORY_EVENT_LOAD:
-                this._onLoad(event.eid);
-                break;
             case CONSTANTS.TERRITORY_EVENT_UPDATE:
                 this._onUpdate(event.eid);
                 break;
             case CONSTANTS.TERRITORY_EVENT_UNLOAD:
-                this._onUnload(event.eid);
+                this._widget.setTitle('Petri Net element has been removed...');
+                this._widget.plotData(null);
                 break;
             default:
                 break;
@@ -131,17 +131,9 @@ define([
 
     PlotViewControl.prototype._onLoad = function (gmeId) {
         var description = this._getObjectDescriptor(gmeId);
-        this._widget.addNode(description);
+        this._widget.plotData(description);
     };
 
-    PlotViewControl.prototype._onUpdate = function (gmeId) {
-        var description = this._getObjectDescriptor(gmeId);
-        this._widget.updateNode(description);
-    };
-
-    PlotViewControl.prototype._onUnload = function (gmeId) {
-        this._widget.removeNode(gmeId);
-    };
 
     PlotViewControl.prototype._stateActiveObjectChanged = function (model, activeObjectId) {
         if (this._currentNodeId === activeObjectId) {
@@ -154,7 +146,7 @@ define([
     /* * * * * * * * Visualizer life cycle callbacks * * * * * * * */
     PlotViewControl.prototype.destroy = function () {
         this._detachClientEventListeners();
-        this._removeToolbarItems();
+        
     };
 
     PlotViewControl.prototype._attachClientEventListeners = function () {
@@ -168,7 +160,6 @@ define([
 
     PlotViewControl.prototype.onActivate = function () {
         this._attachClientEventListeners();
-        this._displayToolbarItems();
 
         if (typeof this._currentNodeId === 'string') {
             WebGMEGlobal.State.registerActiveObject(this._currentNodeId, {suppressVisualizerFromNode: true});
@@ -177,71 +168,10 @@ define([
 
     PlotViewControl.prototype.onDeactivate = function () {
         this._detachClientEventListeners();
-        this._hideToolbarItems();
     };
 
-    /* * * * * * * * * * Updating the toolbar * * * * * * * * * */
-    PlotViewControl.prototype._displayToolbarItems = function () {
-
-        if (this._toolbarInitialized === true) {
-            for (var i = this._toolbarItems.length; i--;) {
-                this._toolbarItems[i].show();
-            }
-        } else {
-            this._initializeToolbar();
-        }
-    };
-
-    PlotViewControl.prototype._hideToolbarItems = function () {
-
-        if (this._toolbarInitialized === true) {
-            for (var i = this._toolbarItems.length; i--;) {
-                this._toolbarItems[i].hide();
-            }
-        }
-    };
-
-    PlotViewControl.prototype._removeToolbarItems = function () {
-
-        if (this._toolbarInitialized === true) {
-            for (var i = this._toolbarItems.length; i--;) {
-                this._toolbarItems[i].destroy();
-            }
-        }
-    };
-
-    PlotViewControl.prototype._initializeToolbar = function () {
-        var self = this,
-            toolBar = WebGMEGlobal.Toolbar;
-
-        this._toolbarItems = [];
-
-        this._toolbarItems.push(toolBar.addSeparator());
-
-        /************** Go to hierarchical parent button ****************/
-        this.$btnModelHierarchyUp = toolBar.addButton({
-            title: 'Go to parent',
-            icon: 'glyphicon glyphicon-circle-arrow-up',
-            clickFn: function (/*data*/) {
-                WebGMEGlobal.State.registerActiveObject(self._currentNodeParentId);
-            }
-        });
-        this._toolbarItems.push(this.$btnModelHierarchyUp);
-        this.$btnModelHierarchyUp.hide();
-
-        /************** Checkbox example *******************/
-
-        this.$cbShowConnection = toolBar.addCheckBox({
-            title: 'toggle checkbox',
-            icon: 'gme icon-gme_diagonal-arrow',
-            checkChangedFn: function (data, checked) {
-                self._logger.debug('Checkbox has been clicked!');
-            }
-        });
-        this._toolbarItems.push(this.$cbShowConnection);
-
-        this._toolbarInitialized = true;
-    };
+   
+    
 
     return PlotViewControl;
 });
